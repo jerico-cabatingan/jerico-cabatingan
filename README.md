@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jerico</h1>
 <h3 align="center">A full-stack developer born in 🇵🇭 based in 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h3>
-<img align="center" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="500"> 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="500"> 
+ </p>
 
 - 🔭 I’m currently working on **Landing my first role**
 
