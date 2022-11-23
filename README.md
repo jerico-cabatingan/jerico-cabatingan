@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data structures & algorithms**
 
-- 👨‍💻 All of my projects are available at [https://www.jericocabatingan.co.uk/portfolio/showcase/](https://www.jericocabatingan.co.uk/portfolio/showcase/)
+- 👨‍💻 All of my projects are available at [https://www.jericocabatingan.co.uk/portfolio/showcase/](https://www.jericocabatingan.co.uk)
 
-- 📫 How to reach me - **https://www.jericocabatingan.co.uk/portfolio/showcase/#contact**
+- 📫 How to reach me - **https://www.jericocabatingan.co.uk/#contact**
 
